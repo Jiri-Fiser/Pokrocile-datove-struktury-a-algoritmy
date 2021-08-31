@@ -1,0 +1,9 @@
+    $init [0] @0:{max}*{n}
+    M := [0]  # initial maximum
+    I := 1    # index
+LP: if [I] <= M then goto NX
+    M := [I]  # new maximum
+NX: I := I + 1
+    if I < {n} then goto LP
+    $print -1:-26:-1,0:40
+    halt
