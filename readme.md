@@ -47,14 +47,14 @@ v PLA nejsou detailně zpracovány spojové seznamy (jednosměrná a obousměrn�
 
 ## Datové struktury: stromové struktury (binární uspořádané stromy, haldy), vyvažování stromů 
 
-haldy (PLA 4.2), lineární representace (je nutné prakticky vyzkoušet)
-binární uspořádané stromy (PLA 8.1) = základní operace (klíčové je ne zcela triviální mazání uzlů)
-AVL stromy (PLA 8.2)
+* haldy (PLA 4.2), lineární representace (je nutné prakticky vyzkoušet)
+* binární uspořádané stromy (PLA 8.1) = základní operace (klíčové je ne zcela triviální mazání uzlů)
+* AVL stromy (PLA 8.2)
 
 ## Datové struktury: grafy (Fibonacciho haldy, ohodnocené grafy)
-grafy: representace a základní operace nad nimi (PLA 5.1 až 5.8), klíčové je prohledávání do šířky a hloubky, pro porovnání viz https://networkx.org/
-ohodnocené grafy: 6.1, 6.2, 6.4 (representace, ohodnocení cest)
-binomiální a Fibonacciho haldy: 18.1-18.4
+* grafy: representace a základní operace nad nimi (PLA 5.1 až 5.8), klíčové je prohledávání do šířky a hloubky, pro porovnání viz https://networkx.org/
+* ohodnocené grafy: 6.1, 6.2, 6.4 (representace, ohodnocení cest)
+* binomiální a Fibonacciho haldy: 18.1-18.4
 
 
 
