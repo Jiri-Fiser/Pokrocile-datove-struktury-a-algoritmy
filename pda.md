@@ -12,9 +12,9 @@ Knihu najdere v elektronické podobě na https://knihy.nic.cz/ a je k dispozici 
 
 PLA: kapitola 2, viz také  https://cw.fel.cvut.cz/b182/_media/courses/b6b36dsa/dsa-3-slozitostalgoritmu.pdf, přehled jednotlivých typických i exotických tříd nabízí https://en.wikipedia.org/wiki/Time_complexity.
 
-**důležité**: rozlišení mezí $0$, $\Omega$ a $\Theta$ notací: nejdůležitější je $Theta$ notace, ale její odvození není pro některé algoritmy snadné či 
+**důležité**: rozlišení mezí $0$, $\Omega$ a $\Theta$ notací: nejdůležitější je $\Theta$ notace, ale její odvození není pro některé algoritmy snadné či 
 dokonce možné, využívá se tedy nejrestriktivnější dokazatelný horní odhad tj, $O$, v praxi 
-se tento zápis uplatňuje i v případě, že existuje i odhad třídy $\Thheta$, (v LPA se však využívá přesnější $\Theta$))
+se tento zápis uplatňuje i v případě, že existuje i odhad třídy $\Theta$, (v LPA se však využívá přesnější $\Theta$))
 
 výpočetní model RAM, nastudujte a vyzkoušejte v praxi
 (viz https://github.com/Jiri-Fiser/Pokrocile-datove-struktury-a-algoritmy/RAM)
