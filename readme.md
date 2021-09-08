@@ -56,14 +56,10 @@ v PLA nejsou detailně zpracovány spojové seznamy (jednosměrná a obousměrn�
 * ohodnocené grafy: 6.1, 6.2, 6.4 (representace, ohodnocení cest)
 * binomiální a Fibonacciho haldy: 18.1-18.4
 
-
-
-
-
-
-
-
-
+## Zpracování textů (suffix trees, string distance, approximate pattern matching)
+ -- základní definice viz PLA 13 (zkuste implementovat jden z algoritmů v Pythonu)
+ 
+ implementace regulárních výrazů viz například: https://swtch.com/~rsc/regexp/regexp1.html
 
 
 
