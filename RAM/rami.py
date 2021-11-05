@@ -1,3 +1,5 @@
+#!/bin/env python
+
 import argparse
 from machines import RAM, get_ram_extended_parser, StdPreprocessor
 

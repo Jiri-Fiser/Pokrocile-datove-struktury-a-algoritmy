@@ -369,7 +369,7 @@ class Initializer(Executor):
     int_literal:: RE: -?[0-9]+
     range:: int_literal ':' int_literal [':' int_literal]  = values from range (Python semantics)
     random_value :: '@' range = random value from range (in repeat every value is new random)
-    fixed_random_value ::  '@@' random value from range (fixed random value i repeated)
+    fixed_random_value ::  '@@' random value from range (fixed random value is repeated)
     """
     def __init__(self, start, values):
         self.start = start
