@@ -37,13 +37,13 @@ Při popisu je důležité pochopit, že datové struktury je vhodné popisovat 
 
 **Doporučuji proto vyzkoušet si implementaci hlavních datových struktur v podobě OOP tříd v Pythonu.**
 
-* nafukovací pole (PLA 9.1), frota a zásobník (4.1) zkuste implemntaci, problematická je především implementace fronty (klíčová je zde implementace tzv. cyklické fronty, viz opora)
+* nafukovací pole (PLA 9.1), frota a zásobník (4.1) zkuste implementaci, problematická je především implementace fronty (klíčová je zde implementace tzv. cyklické fronty, viz opora)
 * hashovací tabulky (11.3, 11.4)
 
 v PLA nejsou detailně zpracovány spojové seznamy (jednosměrná a obousměrný) a representace řídkých polí
 
-* spojové seznamy a jejich implemrntace viz opora
-* řádká pole viz anglická wikipedie a jejich implementace ve SciPy (důležité je znát výhody a nevýhody jednotlivých implementací)
+* spojové seznamy a jejich implementace viz opora
+* řídká pole především matice viz anglická wikipedie [https://en.wikipedia.org/wiki/Sparse_matrix](Sparse matrix) a jejich implementace ve SciPy (důležité je znát výhody a nevýhody jednotlivých implementací)
 
 ## Datové struktury: stromové struktury (binární uspořádané stromy, haldy), vyvažování stromů 
 
