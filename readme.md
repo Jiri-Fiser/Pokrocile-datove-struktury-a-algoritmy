@@ -43,7 +43,7 @@ Při popisu je důležité pochopit, že datové struktury je vhodné popisovat 
 v PLA nejsou detailně zpracovány spojové seznamy (jednosměrná a obousměrný) a representace řídkých polí
 
 * spojové seznamy a jejich implementace viz opora
-* řídká pole především matice viz anglická wikipedie [https://en.wikipedia.org/wiki/Sparse_matrix](Sparse matrix) a jejich implementace ve SciPy (důležité je znát výhody a nevýhody jednotlivých implementací)
+* řídká pole především matice viz anglická wikipedie (https://en.wikipedia.org/wiki/Sparse_matrix) a jejich implementace ve SciPy (důležité je znát výhody a nevýhody jednotlivých implementací)
 
 ## Datové struktury: stromové struktury (binární uspořádané stromy, haldy), vyvažování stromů 
 
